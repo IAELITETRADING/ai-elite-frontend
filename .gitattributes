@@ -1,0 +1,37 @@
+# Normaliser les fins de ligne sur LF pour les fichiers texte
+* text=auto eol=lf
+
+# Forcer LF pour certains fichiers texte
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.env text eol=lf
+*.sh text eol=lf
+
+# Empêcher la conversion des fichiers binaires (image, police, vidéo, archives, etc.)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+*.eot binary
+*.mp4 binary
+*.mov binary
+*.avi binary
+*.pdf binary
+*.zip binary
+*.7z binary
+*.gz binary
