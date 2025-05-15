@@ -1,0 +1,8 @@
+{
+  "email": "admin@ai-elite.com",
+  "username": "AIEliteAdmin",
+  "password": "$2a$10$HashedPasswordIci",
+  "isAdmin": true,
+  "isSubscribed": true,
+  "subscriptionEnd": "2026-05-15T00:00:00.000Z"
+}

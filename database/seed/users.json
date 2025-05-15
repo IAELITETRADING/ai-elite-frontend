@@ -1,0 +1,15 @@
+[
+    {
+      "email": "user1@example.com",
+      "username": "TraderOne",
+      "password": "$2a$10$HashedPassword1",
+      "isSubscribed": true
+    },
+    {
+      "email": "user2@example.com",
+      "username": "InvestorX",
+      "password": "$2a$10$HashedPassword2",
+      "isSubscribed": false
+    }
+  ]
+  

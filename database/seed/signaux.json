@@ -1,0 +1,17 @@
+[
+    {
+      "asset": "AAPL",
+      "market": "US",
+      "reason": "Insider Buy",
+      "signalType": "BUY",
+      "confidence": 0.93
+    },
+    {
+      "asset": "BTC/USD",
+      "market": "Crypto",
+      "reason": "Volatility Spike",
+      "signalType": "SELL",
+      "confidence": 0.87
+    }
+  ]
+  

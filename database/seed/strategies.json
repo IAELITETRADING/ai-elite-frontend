@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Swing Trading Tech",
+      "description": "Stratégie IA pour les actions tech US.",
+      "type": "Swing",
+      "markets": ["NASDAQ"]
+    },
+    {
+      "name": "Crypto Momentum",
+      "description": "Détection des tendances crypto en IA.",
+      "type": "Momentum",
+      "markets": ["Crypto"]
+    }
+  ]
+  
